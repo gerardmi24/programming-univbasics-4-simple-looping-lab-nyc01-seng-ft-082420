@@ -7,8 +7,12 @@ count += 1
 end
 end
 
-def loop_message_n_times
-
+def  loop_message_n_times (question, limit)
+count = 0
+while count < limit do
+puts question
+count += 1
+end
 end
 
 def output_array
