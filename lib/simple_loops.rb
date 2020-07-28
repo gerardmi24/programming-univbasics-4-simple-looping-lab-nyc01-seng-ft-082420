@@ -1,7 +1,9 @@
 # Write your methods here
 
-def loop_message_five_times
-
+counter = 0
+while loop_message_five_times <= 4 do
+puts How am I doing?
+counter += 1
 end
 
 def loop_message_n_times
