@@ -2,7 +2,7 @@
 def loop_message_five_times (question)
 count = 0
 while count <= 4 do
-puts How am I doing?
+puts question
 count += 1
 end
 end
